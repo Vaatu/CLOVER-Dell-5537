@@ -1,28 +1,29 @@
 # CLOVER Dell 5537
- 
+    CLOVER EFI from Olarila Edited for Dell 5537.
+
 # What Works
 
-•	CPU Power Management
+    •	CPU Power Management
 
-•	Battery Support
+    •	Battery Support
 
-•	Intel HD 4400
+    •	Intel HD 4400
 
-•	HDMI out (with hotplug) & Audio out(when webdriver has installed)
+    •	HDMI out (with hotplug) & Audio out(when webdriver has installed)
 
-•	Headphone 
+    •	Headphone 
 
-•	Brightness & volume Keys
+    •	Brightness & volume Keys
 
-•	Keyboard 
+    •	Keyboard 
 
-•	Webcam
+    •	Webcam
 
-•	Ethernet
+    •	Ethernet
 
-•	iCloud Services
+    •	iCloud Services
 
-•	Sleep & Wake (only power button could wakeup system)
+    •	Sleep & Wake (only power button could wakeup system)
 
 # Install
-•	If you can't see install partition try to press F3 on clover boot screen
+    •	If you can't see install partition try to press F3 on clover boot screen
